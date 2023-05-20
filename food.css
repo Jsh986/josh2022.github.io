@@ -670,11 +670,10 @@ header .icons div:hover{
 .job .job_main .job_text h1{
 
     font-size: 55px;
-    position: relative;
-    bottom: 90px;
     color: #666;
-    margin-left: 5vh;
-
+    position: relative;
+    bottom: 65px;
+    right: 7.5vh;
 }
 
 .job .job_main .job_text h1 span{
